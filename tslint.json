@@ -1,0 +1,16 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "trailing-comma": [ false ],
+        "no-shadowed-variable": false,
+        "no-eval": false,
+        "prefer-const": {
+            "severity": "warning"
+        }
+    },
+    "rulesDirectory": []
+}
